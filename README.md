@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java FullStack**
 
-- 🌱 I’m currently learning **Hibernate,MySQL,Bootstrap**
+- 🌱 I’m currently learning **MySQL,Bootstrap**
 
 - 💬 Ask me about **JAVA ,HTML ,CSS , JAVASCRIPT**
 
